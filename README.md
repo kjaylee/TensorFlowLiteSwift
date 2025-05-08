@@ -7,5 +7,5 @@ Downloaded binary frameworks from official CocoaPod and repackaged for Swift pac
 ## Swift package manager
 
 ```
-.package(url: "https://github.com/kewlbear/TensorFlowLiteSwift.git", .branch("main"))
+.package(url: "https://github.com/kjaylee/TensorFlowLiteSwift.git", .branch("main"))
 ```
